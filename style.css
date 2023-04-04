@@ -23,3 +23,23 @@
 .bannerimg1{
     height: 300px;
 }
+.abouttext{
+    margin-top: 100px;
+}
+.mic{
+    height: 50px;
+}
+.itext{
+   margin-left: 65px;
+}
+.user{
+    height: 50px;
+}
+.star{
+    height: 50px;
+}
+.lorem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
