@@ -43,3 +43,21 @@
     justify-content: center;
     align-items: center;
 }
+.pencil{
+    height: 30px;
+}
+.briefcase{
+    height: 30px;
+}
+.setting{
+    height: 30px;
+}
+.box{
+    background-color: white;
+    border: 1px solid skyblue;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.conetnt{
+    color: blue;
+}
